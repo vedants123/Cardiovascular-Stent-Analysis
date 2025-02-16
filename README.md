@@ -1,0 +1,1 @@
+Structural analysis was performed on a steel stent in Ansys Mechanical Static Structural post meshing. Only one symmetric part of the geometry was simulated to save on resources. Displacement was given in the cylindrical coordinate system and Von-Mises Stresses and Deformation was obtained.
